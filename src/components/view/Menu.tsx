@@ -20,6 +20,11 @@ export function Menu() {
                         Consulta Quina
                     </Link>
                 </li>
+                <li className="menu-item">
+                    <Link to="/logout" className="menu-link">
+                        Sair
+                    </Link>
+                </li>
             </ul>
         </nav>
     );

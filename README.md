@@ -27,7 +27,7 @@ Este projeto é uma aplicação frontend desenvolvida com React e TypeScript par
 
 1. Clone o repositório:
    ```
-    repositório: https://github.com/krosscaal/ifnet-quina-frontend
+    git clone https://github.com/krosscaal/ifnet-quina-frontend
    cd quina-frontend
    ```
 
